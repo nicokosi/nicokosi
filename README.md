@@ -14,4 +14,5 @@ My [personal kanban](https://github.com/users/nicokosi/projects/1?fullscreen=tru
 - [blog](https://github.com/nicokosi/blog): my [blog](https://nicokosi.github.io)'s content ✍️
 
 ### toy projects 🧪
--  [hubstats](https://github.com/nicokosi/hubstats), [pullpito](https://github.com/nicokosi/pullpito), [pullpitoK](https://github.com/nicokosi/pullpitoK) and [pullpigo](https://github.com/nicokosi/pullpigo): CLI tools to experiment with `Clojure`, `Rust`, `Kotlin` and `Go` programming languages. 🧑‍💻
+- [hubstats](https://github.com/nicokosi/hubstats), [pullpito](https://github.com/nicokosi/pullpito), [pullpitoK](https://github.com/nicokosi/pullpitoK) and [pullpigo](https://github.com/nicokosi/pullpigo): CLI tools to experiment with `Clojure`, `Rust`, `Kotlin` and `Go` programming languages. 🧑‍💻
+- [dom-manipulator](https://github.com/nicokosi/dom-manipulator): experimentations with `JavaScript`/`TypeScript`, `HTML` and `CSS`. 🧑‍🎨
