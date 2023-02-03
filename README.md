@@ -6,7 +6,7 @@ In my free time, I occasionaly blog [here](https://nicokosi.github.io). ✍️
 
 I also like collaborating on [TLDR, `Collaborative cheatsheets for console commands`](https://github.com/tldr-pages/tldr). 📖
 
-My [kanban](https://github.com/users/nicokosi/projects/1?fullscreen=true) for personal projects and learning experimentations. 👁‍🗨
+My [kanban](https://github.com/users/nicokosi/projects/2) for personal projects and learning experimentations. 👁‍🗨
 
 ### personal "tool" projects 🛠️
 - [dotfiles](https://github.com/nicokosi/dotfiles): my professional/personal shell configurations 🐚
