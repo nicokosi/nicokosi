@@ -4,7 +4,9 @@
 
 In my free time, I occasionaly blog [here](https://nicokosi.github.io). ✍️
 
-I also like collaborating on [TLDR, `Collaborative cheatsheets for console commands`](https://github.com/tldr-pages/tldr). 📖
+I like collaborating on [TLDR, `Collaborative cheatsheets for console commands`](https://github.com/tldr-pages/tldr). 📖
+
+The [list of all my open source contributions on GitHub](https://github.com/search?q=is%3Apr+author%3Anicokosi+-owner%3Asoftwarevidal+-owner%3Anicokosi&type=pullrequests&state=closed&p=1). 💝
 
 My [kanban](https://github.com/users/nicokosi/projects/2) for personal projects and learning experimentations. 👁‍🗨
 
